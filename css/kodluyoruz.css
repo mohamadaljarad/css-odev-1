@@ -1,0 +1,21 @@
+h1{
+    color: darkgreen;
+}
+a{
+    color: blueviolet;margin: 20px;
+}
+body{
+    text-align: center;
+
+}
+h2{
+    color: brown;
+
+}
+li{
+    list-style-position: inside;
+
+}
+.text-blue{
+    color: blue;
+}
